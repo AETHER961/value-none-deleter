@@ -1,0 +1,59 @@
+{
+  "name": "Akyller #3672",
+  "description": "By Akyllers",
+  "image": "ipfs://QmWBcbUZzMemKLTmFwf7FYtPQ29NS7fRQQGL8pf4E1usXx/3672.png",
+  "dna": "3ed79569bcb5b9648f5f47e09842626dc7bf20f8",
+  "edition": 3672,
+  "date": 1662478073511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tyrian"
+    },
+    {
+      "trait_type": "OFFHand",
+      "value": "Crimson Natural Sword"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "None"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Suspicious"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crimson Messy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Meh"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Red Ribbon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Red Ribbons"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

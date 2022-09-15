@@ -1,0 +1,59 @@
+{
+  "name": "Akyller #3671",
+  "description": "By Akyllers",
+  "image": "ipfs://QmWBcbUZzMemKLTmFwf7FYtPQ29NS7fRQQGL8pf4E1usXx/3671.png",
+  "dna": "e976cbcfdc924ab12d753d6f3bfbcbb9e5937778",
+  "edition": 3671,
+  "date": 1662478190173,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tyrian"
+    },
+    {
+      "trait_type": "OFFHand",
+      "value": "Crimson Natural Sword"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "None"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tyrian Sleeveless Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sylvian Disheveled"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "HeadGear",
+      "value": "Crimson Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Red Ribbons"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

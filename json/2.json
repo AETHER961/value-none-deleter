@@ -1,0 +1,55 @@
+{
+  "name": "Akyller #3670",
+  "description": "By Akyllers",
+  "image": "ipfs://QmWBcbUZzMemKLTmFwf7FYtPQ29NS7fRQQGL8pf4E1usXx/3670.png",
+  "dna": "4d35ebc27ccd624507f098d6cf8dba7eca106ee6",
+  "edition": 3670,
+  "date": 1662479861895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crimson"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Akyllers Tech Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chill"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Samurai"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Meh"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Mahjong"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "OFFHand",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Rasta Gang"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

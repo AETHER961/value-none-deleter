@@ -1,0 +1,55 @@
+{
+  "name": "Akyller #3669",
+  "description": "By Akyllers",
+  "image": "ipfs://QmWBcbUZzMemKLTmFwf7FYtPQ29NS7fRQQGL8pf4E1usXx/3669.png",
+  "dna": "9a05defa1323bce7d419619b40c761c034b39397",
+  "edition": 3669,
+  "date": 1662479925361,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Crimson"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "D Green Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Light Half Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Red Ribbon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "OFFHand",
+      "value": "Glaive"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Cartel Del Agua"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
